@@ -1,3 +1,4 @@
-[submodule "ai"]
-	path = ai
-	url = https://github.com/KTC-Security-Circle/SC-system-ai
+[submodule "SC-system-ai"]
+	path = SC-system-ai
+	url = https://github.com/KTC-Security-Circle/SC-system-ai.git
+	branch = main
